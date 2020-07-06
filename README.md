@@ -32,6 +32,10 @@ Charts used in this project
   
 - Heatmaps
   #### A heat map (or heatmap) is a graphical representation of data where values are depicted by color. Heat maps make it easy to visualize complex data and understand it at a glance
+  #### Annotation Added in Heatmaps (Updated version)
+
+- Treemaps
+  #### Treemap charts visualize hierarchical data using nested rectangles
 
 ## Note
 If you found difficulty to view plots this is because of the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. To view my file please visit: https://nbviewer.jupyter.org/github/IshanSingh611/Exploratory-Data-Analytics-of-Sachin-Tendulkar-ODI-with-Plotly/blob/master/Tendulkar%20ODI%20Stats%20with%20Plotly.ipynb
