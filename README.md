@@ -38,4 +38,4 @@ Charts used in this project
   #### Treemap charts visualize hierarchical data using nested rectangles
 
 ## Note
-If you found difficulty to view plots this is because of the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. To view my file please visit: https://nbviewer.jupyter.org/github/IshanSingh611/Exploratory-Data-Analytics-of-Sachin-Tendulkar-ODI-with-Plotly/blob/master/Tendulkar%20ODI%20Stats%20with%20Plotly.ipynb
+If you found difficulty to view plots this is because of the issue is that github performs a static render of the notebooks and it doesn't include the embedded HTML/JavaScript that makes up a plotly graph. To view my file please visit: https://nbviewer.jupyter.org/github/IshanSingh611/Exploratory-Data-Analytics-of-Sachin-Tendulkar-ODI-with-Plotly/blob/master/Exploratory%20Data%20Analytics%20on%20Sachin%20ODI.ipynb
