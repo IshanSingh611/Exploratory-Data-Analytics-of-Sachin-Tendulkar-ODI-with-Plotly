@@ -34,7 +34,7 @@ Charts used in this project
   #### A heat map (or heatmap) is a graphical representation of data where values are depicted by color. Heat maps make it easy to visualize complex data and understand it at a glance
   #### Annotation Added in Heatmaps (Updated version)
 
-- Treemaps
+- Treemaps (Updated)
   #### Treemap charts visualize hierarchical data using nested rectangles
 
 ## Note
